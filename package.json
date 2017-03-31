@@ -14,7 +14,7 @@
     "url": "https://github.com/francoislaberge/healthpack/issues"
   },
   "publishConfig": {
-    "registry": "https://npmjs.org"
+    "registry": "https://registry.npmjs.org"
   },
   "keywords": [
     "Dependency",
