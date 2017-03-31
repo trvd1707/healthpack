@@ -1,6 +1,6 @@
 {
   "name": "healthpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dependency management healthcheck",
   "main": "lib/index.js",
   "scripts": {
