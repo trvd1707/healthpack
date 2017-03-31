@@ -1,0 +1,30 @@
+{
+  "name": "healthpack",
+  "version": "1.0.0",
+  "description": "Dependency management healthcheck",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francoislaberge/healthpack"
+  },
+  "bugs": {
+    "url": "https://github.com/francoislaberge/healthpack/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npmjs.org"
+  },
+  "keywords": [
+    "Dependency",
+    "Analysis",
+    "Optimization",
+    "Static",
+    "Analysis",
+    "Health",
+    "Check"
+  ],
+  "author": "Francois Laberge <francoislaberge@gmail.com>",
+  "license": "MIT"
+}
